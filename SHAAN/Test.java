@@ -1,7 +1,7 @@
-public class Test {
+ class Test {
     public static void main(String args[]) {
 
-        System.out.print("HELLO WORLD");
+        System.out.print("try 1");
 
         
     }
